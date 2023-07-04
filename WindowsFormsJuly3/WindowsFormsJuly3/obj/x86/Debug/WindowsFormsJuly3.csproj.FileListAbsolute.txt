@@ -1,0 +1,16 @@
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\WindowsFormsJuly3.exe
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\WindowsFormsJuly3.pdb
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.dll
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.xml
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.csprojAssemblyReference.cache
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.Form1.resources
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.Properties.Resources.resources
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.csproj.GenerateResource.cache
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.csproj.CoreCompileInputs.cache
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.csproj.CopyComplete
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.exe
+D:\tycs21\WindowsFormsJuly3\WindowsFormsJuly3\obj\x86\Debug\WindowsFormsJuly3.pdb
