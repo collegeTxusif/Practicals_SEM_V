@@ -16,7 +16,7 @@ public class Practical1b {
     public static String doEncryption(String msg) {
         char cipherText[] = new char[(msg.length())];
         for (int i = 0; i < msg.length(); i++) {
-            for (int j = 0; j < 26; j++) {
+            for (int j = 0; j < 27; j++) {
                 if (PlainText[j] == msg.charAt(i)) {
                     cipherText[i] = keys[j];
                             break;
@@ -29,7 +29,7 @@ public class Practical1b {
     public static String doDecryption(String msg) {
         char plainText[] = new char[(msg.length())];
         for (int i = 0; i < msg.length(); i++) {
-            for (int j = 0; j < 26; j++) {
+            for (int j = 0; j < 27; j++) {
                 if (keys[j] == msg.charAt(i)) {
                     plainText[i] = PlainText[j];
                             break;
